@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "429164320293",
+    "project_id": "ecommerce-whitelabel",
+    "storage_bucket": "ecommerce-whitelabel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429164320293:android:56c5a447fc3fd8f0ad11cc",
+        "android_client_info": {
+          "package_name": "br.com.brunoccbertolini.ecommerce_whitelabel.bike"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "429164320293-t44g5mecne4i9580a6v69513to6rsq5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaXCdjjAx-nDIoZxtG7KWnSw3RK8i6L0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "429164320293-t44g5mecne4i9580a6v69513to6rsq5u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429164320293:android:86f6c159eafac333ad11cc",
+        "android_client_info": {
+          "package_name": "br.com.brunoccbertolini.ecommerce_whitelabel.bike.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "429164320293-t44g5mecne4i9580a6v69513to6rsq5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaXCdjjAx-nDIoZxtG7KWnSw3RK8i6L0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "429164320293-t44g5mecne4i9580a6v69513to6rsq5u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429164320293:android:e14c65cb0d431a84ad11cc",
+        "android_client_info": {
+          "package_name": "br.com.brunoccbertolini.ecommerce_whitelabel.car"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "429164320293-t44g5mecne4i9580a6v69513to6rsq5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaXCdjjAx-nDIoZxtG7KWnSw3RK8i6L0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "429164320293-t44g5mecne4i9580a6v69513to6rsq5u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429164320293:android:40b11ab34184796cad11cc",
+        "android_client_info": {
+          "package_name": "br.com.brunoccbertolini.ecommerce_whitelabel.car.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "429164320293-t44g5mecne4i9580a6v69513to6rsq5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaXCdjjAx-nDIoZxtG7KWnSw3RK8i6L0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "429164320293-t44g5mecne4i9580a6v69513to6rsq5u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
