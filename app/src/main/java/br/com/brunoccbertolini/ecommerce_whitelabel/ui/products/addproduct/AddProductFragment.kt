@@ -1,4 +1,4 @@
-package br.com.brunoccbertolini.ecommerce_whitelabel.ui.products
+package br.com.brunoccbertolini.ecommerce_whitelabel.ui.products.addproduct
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -6,8 +6,9 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import br.com.brunoccbertolini.ecommerce_whitelabel.databinding.AddProductFragmentBinding
+import com.google.android.material.bottomsheet.BottomSheetDialogFragment
 
-class AddProductFragment: Fragment() {
+class AddProductFragment: BottomSheetDialogFragment() {
 
     private var _binding: AddProductFragmentBinding? = null
     private val binding: AddProductFragmentBinding get() = _binding!!

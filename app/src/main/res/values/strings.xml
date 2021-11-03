@@ -15,4 +15,5 @@
     <string name="add_product_field_error">Mandatory field</string>
 
     <string name="add_product_button_add_product">Add</string>
+    <string name="products_screen_title">Products</string>
 </resources>

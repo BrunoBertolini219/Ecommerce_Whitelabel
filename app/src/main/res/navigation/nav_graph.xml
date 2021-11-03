@@ -8,7 +8,7 @@
     <fragment
         android:id="@+id/productsFragment"
         android:name="br.com.brunoccbertolini.ecommerce_whitelabel.ui.products.ProductsFragment"
-        android:label="@string/add_product_screen_title"
+        android:label="@string/products_screen_title"
         tools:layout="@layout/fragment_products">
         <action
             android:id="@+id/action_productsFragment_to_addProductFragment"
