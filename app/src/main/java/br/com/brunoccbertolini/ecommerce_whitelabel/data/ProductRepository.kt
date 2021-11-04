@@ -2,8 +2,9 @@ package br.com.brunoccbertolini.ecommerce_whitelabel.data
 
 import android.net.Uri
 import br.com.brunoccbertolini.ecommerce_whitelabel.domain.model.Product
+import javax.inject.Inject
 
-class ProductRepository(private val dataSource: ProductDataSource) {
+class ProductRepository @Inject constructor(private val dataSource: ProductDataSource) {
 
     suspend fun getProducts(): List<Product> = dataSource.getProducts()
 

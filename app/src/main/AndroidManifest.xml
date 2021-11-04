@@ -3,6 +3,7 @@
     package="br.com.brunoccbertolini.ecommerce_whitelabel">
 
     <application
+        android:name=".EcommerceApplication"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="${appName}${appNameSuffix}"
