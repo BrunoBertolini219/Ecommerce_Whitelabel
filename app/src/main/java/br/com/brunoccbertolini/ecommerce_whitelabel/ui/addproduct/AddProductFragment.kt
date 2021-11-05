@@ -1,4 +1,4 @@
-package br.com.brunoccbertolini.ecommerce_whitelabel.ui.products.addproduct
+package br.com.brunoccbertolini.ecommerce_whitelabel.ui.addproduct
 
 import android.net.Uri
 import android.os.Bundle
@@ -33,7 +33,7 @@ class AddProductFragment : BottomSheetDialogFragment() {
         inflater: LayoutInflater,
         container: ViewGroup?,
         savedInstanceState: Bundle?
-    ): View? {
+    ): View {
         _binding = AddProductFragmentBinding.inflate(inflater, container, false)
         return binding.root
 
@@ -82,6 +82,11 @@ class AddProductFragment : BottomSheetDialogFragment() {
 
     private fun chooseImage() {
         getContent.launch("image/*")
+    }
+
+    override fun onDestroyView() {
+        _binding = null
+        super.onDestroyView()
     }
 
 

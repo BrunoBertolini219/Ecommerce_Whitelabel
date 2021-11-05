@@ -2,6 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="br.com.brunoccbertolini.ecommerce_whitelabel">
 
+    <uses-permission android:name="android.permission.INTERNET"/>
+
     <application
         android:name=".EcommerceApplication"
         android:allowBackup="true"

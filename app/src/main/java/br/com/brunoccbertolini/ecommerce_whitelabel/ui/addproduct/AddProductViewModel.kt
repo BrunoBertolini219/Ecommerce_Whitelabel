@@ -1,4 +1,4 @@
-package br.com.brunoccbertolini.ecommerce_whitelabel.ui.products.addproduct
+package br.com.brunoccbertolini.ecommerce_whitelabel.ui.addproduct
 
 import android.net.Uri
 import android.util.Log
